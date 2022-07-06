@@ -2,4 +2,4 @@
 
 ps2.py: pset solution, written by Amanda Wright
 
-words.txt: list of avaialable words, provided by the course
+words.txt: list of avaialable words, provided by MIT
