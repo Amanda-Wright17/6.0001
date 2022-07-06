@@ -1,5 +1,5 @@
 # 6.0001/6.00 Problem Set 5 - RSS Feed Filter
-# Name:
+# Name: Amanda Wright
 # Collaborators:
 # Time:
 
